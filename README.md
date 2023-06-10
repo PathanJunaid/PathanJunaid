@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PathanJunaid
-- 👀 I’m interested in ...Software development, App development
+- 👀 I’m interested in ...App development, Web Development
 - 🌱 I’m currently learning ...Computer Science and Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...me.zunaidkhan@gmail.com
